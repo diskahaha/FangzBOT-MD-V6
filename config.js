@@ -38,33 +38,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
+global.sig = 'https://instagram.com/F' //Instagram mu
+global.sgh = 'https://github.com/F' //Github mu
+global.sgc = 'https://chat.whatsapp.com/Jpm8TqhtU2b1EUz55iXRyx' //Group WhatsApp mu
+global.sdc = 'https://youtube.com/channel/f' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
+global.pdana = '6281285578808' //Dana
+global.povo = '6281285578808' //Ovo
+global.pgopay = '6281285578808' //Gopay
+global.ppulsa = '6281285578808' //Pulsa 
+global.ppulsa2 = '6281285578808' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'https://saweria.co/F' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6282122087672' //Nomor Bot mu
+global.nomorown = '6282122087672' //Nomormu
+global.namebot = '𝕭𝖔𝖙 • Andii ༢࿔ྀ' //Nama bot mu
+global.nameown = '𝕭𝖔𝖙 • Andii ༢࿔ྀ' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6288215689772'], //Owner1
-  ['6288215689772'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6282122087672'], //Owner1
+  ['6282122087672'], //Owner2
+  ['6282122087672'], //Owner3
+  ['6282122087672', '𝕭𝖔𝖙 • Andii ༢࿔ྀ ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Fangz BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '                「 𝕭𝖔𝖙 • Andii ༢࿔ྀ ⁩இ 」' //Wm
+global.wm2 = '➳༻❀𝕭𝖔𝖙 • Andii ༢࿔ྀ❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '⫹⫺ 𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FANGZ BOT' //Ganti serah lu
-global.author = '                ✧ Fangz BOT⁩ ✧' //Wm author
+global.titlebot = '𝗬𝗧: 𝕭𝖔𝖙 • Andii ༢࿔ྀ' //Ganti serah lu
+global.author = '                ✧ 𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩ ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -162,7 +162,7 @@ global.cmenut = '✦╍╌╌╍╌╌╍ ◸'                       //top
 global.cmenuh = '◿ ╍╌╌╍╌╌╍'                        //header
 global.cmenub = '│⌕ '                            //body
 global.cmenuf = '╰───···─────\n'                //footer
-global.cmenua = '\nજ By Fangz\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕     ' //after
+global.cmenua = '\nજ By 𝕭𝖔𝖙 • Andii ༢࿔ྀ\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕     ' //after
 global.pmenus = '│'                              //pembatas menu selector
 
 global.htki = '––––––◸' // Hiasan Titile (KIRI)
@@ -173,8 +173,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FANGZ BOT'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.stickauth = `© 𝕭𝖔𝖙 • Andii ༢࿔ྀ\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
